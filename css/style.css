@@ -1,0 +1,46 @@
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 25px;
+font-family: 'Courier New', Courier, monospace; 
+color: #900C3F;
+}
+body{
+    background:#ffbd33 ;
+}
+
+img{
+    width: 600px;
+}
+
+.frustrated{
+    background-color: blue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display : flex
+
+}
+.enredading{
+padding-left: 50px;
+padding-right: 50px;
+
+}
+.going{
+
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+.crying{
+    padding-top: 80px;
+    padding-bottom: 50px;
+background-image: url("https://i.gifer.com/jVo.gif");
+height: 500px;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+margin-top: 30px;
+}
+
+
